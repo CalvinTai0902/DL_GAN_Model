@@ -1,1 +1,1 @@
-We design and train a DCGAN model in this task.
+We implement a DCGAN using the CelebA dataset and apply some advanced modifications.
